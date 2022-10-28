@@ -7,8 +7,6 @@
         <link rel="stylesheet"  href="css/all.min.css"  />
         <link rel="stylesheet"  href="css/fontawesome.min.css" />
        <link rel="stylesheet"  href="stylish.css"  />
-       
-    
   </header>
 <body>
      <nav>
